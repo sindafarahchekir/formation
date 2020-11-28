@@ -1,0 +1,4 @@
+/home/sinda/Bureau/work/formation/spring-mongodb/src/main/java/com/javatechie/spring/mongo/api/SpringMongodbApplication.java
+/home/sinda/Bureau/work/formation/spring-mongodb/src/main/java/com/javatechie/spring/mongo/api/repository/BookRepository.java
+/home/sinda/Bureau/work/formation/spring-mongodb/src/main/java/com/javatechie/spring/mongo/api/model/Book.java
+/home/sinda/Bureau/work/formation/spring-mongodb/src/main/java/com/javatechie/spring/mongo/api/resource/BookController.java
